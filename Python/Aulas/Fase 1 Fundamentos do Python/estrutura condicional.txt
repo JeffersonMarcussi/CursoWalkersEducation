@@ -1,0 +1,10 @@
+SE (CONDIÇÃO)
+  VERDADEIRA
+
+SENAO
+   FALSO   
+
+IF (CONDIÇÃO):
+   VERDADEIRO
+ELSE:
+   FALSO         
